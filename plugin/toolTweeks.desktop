@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library= toolTweeks
+X-Python-2-Compatible=false
+X-Krita-Manual=manual/Manual.html
+Name= tool tweeks
+Comment= tweeks to tool options docker
